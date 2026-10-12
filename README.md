@@ -2,7 +2,7 @@
 
 **Live demo:** https://churnguard-9ae79yrg92vtepagyymdoe.streamlit.app/
 
-**Demo video:** <PASTE YOUR LOOM / YOUTUBE LINK HERE>
+**Demo video:** https://www.awesomescreenshot.com/video/57368356?key=8cecac4935e4e7378ff8a0119762c16d
 
 ChurnGuard predicts which telecom customers are likely to leave, explains why, and estimates how much revenue a retention campaign can save. Every prediction in the app shows its top 3 reasons.
 
